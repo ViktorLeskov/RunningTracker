@@ -1,4 +1,4 @@
-package com.androiddevs.runningappyt
+package com.viktorapps.runningtracker
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
