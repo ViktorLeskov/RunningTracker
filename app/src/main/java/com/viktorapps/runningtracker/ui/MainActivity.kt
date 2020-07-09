@@ -1,8 +1,9 @@
-package com.viktorapps.runningtracker
+package com.viktorapps.runningtracker.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
+import com.viktorapps.runningtracker.R
 import com.viktorapps.runningtracker.db.RunDao
 import dagger.hilt.android.AndroidEntryPoint
 import javax.inject.Inject
